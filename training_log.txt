@@ -1,0 +1,82 @@
+Training Log
+==================================================
+Japanese Vocabulary Size: 2500
+Vietnamese Vocabulary Size: 900
+==================================================
+
+
+Epoch 1/10
+Training Loss: 5.7894
+Validation Loss: 5.0417
+BLEU Score: 0.0000
+Epoch Time: 13.80 minutes
+--------------------------------------------------
+
+Epoch 2/10
+Training Loss: 4.6888
+Validation Loss: 3.8286
+BLEU Score: 0.0325
+Epoch Time: 10.29 minutes
+--------------------------------------------------
+
+Epoch 3/10
+Training Loss: 3.7598
+Validation Loss: 3.0006
+BLEU Score: 0.0659
+Epoch Time: 9.32 minutes
+--------------------------------------------------
+
+Epoch 4/10
+Training Loss: 3.0959
+Validation Loss: 2.4504
+BLEU Score: 0.1371
+Epoch Time: 10.22 minutes
+--------------------------------------------------
+
+Epoch 5/10
+Training Loss: 2.6225
+Validation Loss: 2.0819
+BLEU Score: 0.2373
+Epoch Time: 8.39 minutes
+--------------------------------------------------
+
+Epoch 6/10
+Training Loss: 2.2891
+Validation Loss: 1.8509
+BLEU Score: 0.3080
+Epoch Time: 8.36 minutes
+--------------------------------------------------
+
+Epoch 7/10
+Training Loss: 2.0559
+Validation Loss: 1.7078
+BLEU Score: 0.4068
+Epoch Time: 8.99 minutes
+--------------------------------------------------
+
+Epoch 8/10
+Training Loss: 1.8900
+Validation Loss: 1.6165
+BLEU Score: 0.4952
+Epoch Time: 9.87 minutes
+--------------------------------------------------
+
+Epoch 9/10
+Training Loss: 1.7683
+Validation Loss: 1.5580
+BLEU Score: 0.5496
+Epoch Time: 9.92 minutes
+--------------------------------------------------
+
+Epoch 10/10
+Training Loss: 1.6767
+Validation Loss: 1.5176
+BLEU Score: 0.6429
+Epoch Time: 8.34 minutes
+--------------------------------------------------
+
+Training Summary
+==================================================
+Total training time: 1.63 hours
+Best validation loss: 1.5176
+==================================================
